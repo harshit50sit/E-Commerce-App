@@ -1,0 +1,20 @@
+//Steps for running this application--
+
+I have assumed to display only shoe items.
+
+-->This application is build by using React.
+
+-->For running this application you have to install nodejs in your computer than run this by just using the command
+   npm start.
+
+-->User can add shoe items in cart by clicking the (+) button in the UI.
+
+-->You can navigate to shop menu & my cart menu.
+
+-->Under MyCart menu you can see the item that you are ordered.
+
+-->Inside Mycart you can add more items or removes the item also.
+
+-->You can cheked the shipping box than go to checkout button.
+
+-->For back to the home page you have to click the shop button.
